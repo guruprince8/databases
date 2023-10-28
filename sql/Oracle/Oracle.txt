@@ -1,3 +1,4 @@
 
 /* Links */
 https://docs.oracle.com/en/database/oracle/oracle-database/21/index.html
+https://docs.oracle.com/en/database/oracle/oracle-database/21/cncpt/introduction-to-oracle-database.html#GUID-7BDBD26D-AD11-4599-8C7B-EAB9AAEAA558
